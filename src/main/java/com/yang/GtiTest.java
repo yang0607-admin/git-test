@@ -8,5 +8,7 @@ public class GtiTest {
         System.out.println("Git Test03");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
+        System.out.println("push code commit~!");
+
     }
 }
